@@ -1,0 +1,124 @@
+
+@font-face {
+  font-family: "wd-custom-nav-iconfont-theme"; /* Project id 3775075 */
+  src: url('iconfont.woff2?t=1669015455389') format('woff2'),
+       url('iconfont.woff?t=1669015455389') format('woff'),
+       url('iconfont.ttf?t=1669015455389') format('truetype');
+}
+
+.wd-custom-nav-iconfont-theme {
+  font-family: "wd-custom-nav-iconfont-theme" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wd-custom-nav-iconfont-shop013x:before {
+  content: "\e658";
+}
+
+.wd-custom-nav-iconfont-shop053x:before {
+  content: "\e65c";
+}
+
+.wd-custom-nav-iconfont-shop-money:before {
+  content: "\e63d";
+}
+
+.wd-custom-nav-iconfont-shop-distribution:before {
+  content: "\e63e";
+}
+
+.wd-custom-nav-iconfont-shop-classification02:before {
+  content: "\e63f";
+}
+
+.wd-custom-nav-iconfont-shop-card:before {
+  content: "\e640";
+}
+
+.wd-custom-nav-iconfont-shop-member01:before {
+  content: "\e641";
+}
+
+.wd-custom-nav-iconfont-shop-member02:before {
+  content: "\e643";
+}
+
+.wd-custom-nav-iconfont-shop-share:before {
+  content: "\e644";
+}
+
+.wd-custom-nav-iconfont-shop-home02:before {
+  content: "\e646";
+}
+
+.wd-custom-nav-iconfont-shop-commodity:before {
+  content: "\e647";
+}
+
+.wd-custom-nav-iconfont-shop-brand:before {
+  content: "\e648";
+}
+
+.wd-custom-nav-iconfont-shop-classification01:before {
+  content: "\e64a";
+}
+
+.wd-custom-nav-iconfont-shop-gift:before {
+  content: "\e64b";
+}
+
+.wd-custom-nav-iconfont-shop-ShoppingCart:before {
+  content: "\e64c";
+}
+
+.wd-custom-nav-iconfont-shop-activity:before {
+  content: "\e64d";
+}
+
+.wd-custom-nav-iconfont-shop-recommen:before {
+  content: "\e64e";
+}
+
+.wd-custom-nav-iconfont-shop-list:before {
+  content: "\e64f";
+}
+
+.wd-custom-nav-iconfont-shop-Discount:before {
+  content: "\e650";
+}
+
+.wd-custom-nav-iconfont-shop-hot:before {
+  content: "\e651";
+}
+
+.wd-custom-nav-iconfont-shop-IM:before {
+  content: "\e653";
+}
+
+.wd-custom-nav-iconfont-shop-surprise:before {
+  content: "\e660";
+}
+
+.wd-custom-nav-iconfont-shouye_xiaodian_nor:before {
+  content: "\e663";
+}
+
+.wd-custom-nav-iconfont-diandan_xiaodian_nor:before {
+  content: "\e665";
+}
+
+.wd-custom-nav-iconfont-order_xiaodian_nor:before {
+  content: "\e666";
+}
+
+.wd-custom-nav-iconfont-icon_xiaodian_nor:before {
+  content: "\e667";
+}
+
+.wd-custom-nav-iconfont-repeat_customer_talk:before {
+  content: "\e601";
+}
+
